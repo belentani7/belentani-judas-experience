@@ -1,0 +1,135 @@
+BELENTANI / JUDAS / OMEGA
+PROMPT MAESTRO DE CINEMATOGRAFIA Y CAMPANA VISUAL
+
+BASE DE LECTURA
+- Proyecto local leido: BELENTANI-JUDAS-EXPERIENCE.
+- Lenguaje visual detectado: oscuro, inmersivo, neones magenta, vidrio, sangre, oro, fondo radial, minimalismo ritual, escenas 3D con nube de particulas, skins belentani / blood / gold, y rutas artisticas como /artist, /judas, /portal, /gallery, /music, /architecture y /contact.
+- Direccion canonica: arte digital vivo, materialidad cinematografica oscura, asimetria monumental, movimiento intencional, shaders expresivos, presencia de cuerpo y umbral.
+- Referencia estructural externa: ANTIdiaRy de Rihanna x Samsung. Tomar solo la arquitectura narrativa de ocho films / rooms, el viaje surreal y metaforico, y la logica de campaña por capitulos. No copiar escenas literales, casting, marca, ni fotografias originales.
+
+DEFINICION FISICA Y ESTETICA
+- Cuerpo: monumental, androgino, preciso, casi escultorico. Piel tratada como materia viva: obsidiana, porcelana quemada, metal lacado, sudor fino, cicatriz, polvo de luz.
+- Superficie: vidrio oscuro, liquido cromado, oro bruido, rojo sangre, humo denso, tinta azul profunda, neblina electrica, reflejos humedos.
+- Luz: low key extremo, contraluces duros, halos magenta, bordeado rojo, destellos dorados, sombras densas, flare controlado, bloom fino y selectivo.
+- Espacio: vacio monumental, arquitectura ritual, pasillos imposibles, umbrales, habitaciones simbolicas, horizonte sin contexto, profundidad inmersiva.
+- Movimiento: lento, ceremonial, con interrupciones abruptas. Push-in constante, travellings flotantes, giros suaves, microcortes de un frame, congelados momentaneos, respiracion visual.
+- Optica: mezcla de 24mm para escala, 40mm para presencia, 85mm para piel y mirada, macro para textura. Profundidad de campo corta en retratos, mayor amplitud en arquitectura.
+- Color: negro tinta, magenta neon, rojo sangre, oro antiguo, blanco hueso, azul ink, humo gris, acentos de cian electrico solo en destellos.
+- Sensacion: elegancia herida, lujo sacrificial, deseo contenido, tecnologia ritual, cuerpo convertido en archivo.
+
+PROMPT MAESTRO
+Genera una campana visual cinematografica de 5 minutos para un videoclip y una cancion de autor BELENTANI / JUDAS / OMEGA. La pieza debe sentirse como una pelicula de moda, musica y arte contemporaneo, con energia de campana premium, pero guiada por una narrativa intima y simbolica. La estetica debe mezclar oscuridad teatral, vidrio, neblina, materia organica, metal liquido, oro ritual, y neones magenta sobre fondo negro. La camara debe respirar cerca de la piel y luego abrirse a espacios monumentales. El tono es sensual, solemne, futurista y emocional, nunca corporativo ni editorial plano. El eje narrativo es la transformacion de la traicion en identidad, de la herida en archivo, y del archivo en portal.
+
+El video debe sentirse como una serie de ocho movimientos o habitaciones simbolicas, inspiradas solo en la estructura de ANTIdiaRy: cada bloque es un estado psicologico y visual, no una copia de Rihanna ni de Samsung. El mundo visual debe contener una presencia central fuerte, una figura humana magnetica, y objetos-simbolo recurrentes: corona fragmentada, puerta viva, tinta en el aire, espejo roto, archivo de luz, diamante ritual, agua negra, particulas suspendidas y una arquitectura de umbral.
+
+Direccion de camara:
+- Empieza con planos cerrados de piel, ojos, dedos, texturas, costuras y reflejos.
+- Alterna con planos medios de presencia escultural.
+- Abre en planos generales cuando el espacio necesite imponerse como templo o sistema.
+- Usa movimiento lento y preciso: dolly, orbitas suaves, push-in, pull-back, paneos escasos, ninguna camara nerviosa.
+- Reserva los cortes rapidos para momentos de ruptura, vision o choque emocional.
+
+Reglas visuales:
+- Nada de UI plana, dashboards, sidebars, grids de tarjetas o lenguaje de presentacion.
+- Nada de look publicitario generico.
+- Nada de copia literal de ANTIdiaRy, Rihanna, Samsung o su iconografia.
+- Cada plano debe tener una razon fisica: materia, gesto, respiracion, peso, temperatura.
+- Cada transicion debe sentirse como paso de estado, no como cambio decorativo.
+- La luz debe revelar y ocultar al mismo tiempo.
+
+STRUCTURA DE 5 MINUTOS
+Duracion total: 300 segundos.
+Formato de trabajo: generar en bloques de 5 segundos por clip.
+Si el motor solo acepta tomas de 1 a 3 segundos, renderiza 3 microtomas por bloque y edita la mejor combinacion.
+
+CAPITULO 1 - ORIGEN
+00:00-00:05 | Negro absoluto. Un pulso magenta abre una grieta minima en una superficie de vidrio.
+00:05-00:10 | Macro de piel humeda y polvo flotando. La luz roza una cicatriz.
+00:10-00:15 | Ojos en penumbra. Reflejo de una corona fragmentada dentro de la pupila.
+00:15-00:20 | Agua negra vibra sobre una mesa de metal. Una gota cae como una señal.
+00:20-00:25 | Plano medio de una figura inmovil en un cuarto casi vacio. El aire parece denso.
+00:25-00:30 | La figura gira apenas la cabeza. El fondo se comprime como si el espacio escuchara.
+
+CAPITULO 2 - NOMBRE
+00:30-00:35 | Letras de luz aparecen en el humo y se rompen al tocarlas.
+00:35-00:40 | Mano sobre vidrio oscuro. La huella queda como un archivo de calor.
+00:40-00:45 | Close-up de labios que no cantan aun. Solo respiracion y tension.
+00:45-00:50 | Un espejo muestra otro rostro por un frame y luego vuelve al presente.
+00:50-00:55 | Tinta azul se expande en el aire como memoria liquida.
+00:55-01:00 | La figura camina hacia la camara. El nombre deja de ser texto y se vuelve peso.
+
+CAPITULO 3 - CUERPO
+01:00-01:05 | Contraluz dorado recorta hombros y claviculas como si fueran estatua viva.
+01:05-01:10 | Macro de poros, brillo y sombra. La piel es una superficie ceremonial.
+01:10-01:15 | Un cuerpo se cubre con un material metalico flexible que respira.
+01:15-01:20 | Planos intercalados de manos, nuca, pecho, cuello, dedos, respiracion.
+01:20-01:25 | La camara orbita lentamente la figura. Cada giro revela una nueva capa de herida y lujo.
+01:25-01:30 | Un destello blanco corta la escena y deja la silueta suspendida.
+
+CAPITULO 4 - ARCHIVO
+01:30-01:35 | Pasillos de archivador viviente. Carpetas, pantallas y placas de vidrio flotan en silencio.
+01:35-01:40 | Fotografias evaporadas se pegan a una pared de humo.
+01:40-01:45 | La figura extrae un objeto de una cavidad luminosa, como si abriera un recuerdo.
+01:45-01:50 | Primer plano de manos pasando paginas de luz, no papel.
+01:50-01:55 | El archivo late. Cada pulso cambia el color del cuarto.
+01:55-02:00 | La figura mira a camara y el archivo se cierra solo.
+
+CAPITULO 5 - HERIDA
+02:00-02:05 | Una linea roja abre la oscuridad como si fuera una costura rota.
+02:05-02:10 | La tinta azul y el rojo sangre se encuentran en el aire sin mezclarse.
+02:10-02:15 | Insectos de luz atraviesan la escena en silencio.
+02:15-02:20 | La figura sostiene la herida como una fuente de energia.
+02:20-02:25 | Plano detalle: borde de corte, sal, polvo, sudor, temple.
+02:25-02:30 | La herida se convierte en simbolo, no en dolor.
+
+CAPITULO 6 - SENAL
+02:30-02:35 | Un haz de luz atraviesa niebla densa y dibuja una flecha invisible.
+02:35-02:40 | El espacio responde con vibracion geometrica.
+02:40-02:45 | Un diamante ritual emerge del suelo como una antena de memoria.
+02:45-02:50 | El cuerpo se alinea con la senal y la escena se vuelve mas silenciosa.
+02:50-02:55 | Microcortes de ojos, dedos, metal, humo, oro, negro.
+02:55-03:00 | La senal abre un corredor vivo al fondo del encuadre.
+
+CAPITULO 7 - PORTAL
+03:00-03:05 | Portal organico hecho de materia respirante, vidrio blando y luz liquida.
+03:05-03:10 | La figura toca el borde y la superficie responde como piel.
+03:10-03:15 | La camara atraviesa el portal con un movimiento fluido.
+03:15-03:20 | Espacio nuevo: inmenso, abstracto, casi inmersivo, con gravedad rara.
+03:20-03:25 | La figura flota un instante entre dos mundos.
+03:25-03:30 | Un estallido magenta y oro sella el paso.
+
+CAPITULO 8 - OMEGA
+03:30-03:35 | Todo converge en una forma final: cuerpo, archivo, herida, senal y portal.
+03:35-03:40 | La figura ya no posa: reina, pero en silencio.
+03:40-03:45 | Planos sucesivos de piel, oro, humo, mirada, diamante, agua negra.
+03:45-03:50 | El espacio se abre en un horizonte negro con un pulso de luz blanca.
+03:50-03:55 | Ultimo close-up: una mirada directa, serena, irrevocable.
+03:55-04:00 | La imagen se disuelve en negro, dejando una resonancia breve.
+
+CAPITULO 9 - CODA DE CAMPANA
+04:00-04:05 | Reaparicion fugaz de los simbolos clave en montaje rapido.
+04:05-04:10 | Corona fragmentada, archivo, herida, diamante, portal.
+04:10-04:15 | La figura camina fuera de cuadro sin romper la composicion.
+04:15-04:20 | Un ultimo brillo magenta se apaga lentamente.
+04:20-04:25 | El negro vuelve a cerrarse como una puerta.
+04:25-04:30 | Silence beat.
+
+CAPITULO 10 - EXTENSION FINAL
+04:30-04:35 | La misma escena del origen, ahora transformada y estabilizada.
+04:35-04:40 | El cuerpo aparece completo, monumental, sereno.
+04:40-04:45 | Un halo dorado recorre los bordes de la silueta.
+04:45-04:50 | El archivo se convierte en horizonte.
+04:50-04:55 | La senal se vuelve cancion.
+04:55-05:00 | Corte a negro con texto minimo: BELENTANI / JUDAS / OMEGA.
+
+INSTRUCCIONES PARA IA VIDEO
+- Genera cada bloque de 5 segundos como un plano con inicio, transformacion y salida clara.
+- Produce 3 variantes por bloque: una mas cerrada, una mas atmosferica, una mas simbolica.
+- Si el motor entrega planos de 1-3 segundos, divide cada bloque en microtomas A, B y C y recompone en montaje.
+- Conserva continuidad de piel, vestuario, color y luz entre planos consecutivos.
+- Mantiene la figura principal reconocible, pero no estatica.
+- Prioriza textura y presencia sobre exceso de accion.
+
+PROMPT RESUMIDO PARA PEGAR EN UN GENERADOR
+Campana visual cinematografica premium de 5 minutos para BELENTANI / JUDAS / OMEGA. Estetica oscura, inmersiva, sensorial, monumental, con neones magenta, rojo sangre, oro antiguo, vidrio negro, humo, agua oscura, tinta azul, metal liquido y particulas suspendidas. Figura humana central androgina, escultural, elegante, herida y poderosa. Camara lenta, ceremonial, con macro detalles de piel, ojos, manos, cicatrices y reflejos, alternando con planos generales de arquitectura ritual y portales vivos. Narrativa en ocho estados: origen, nombre, cuerpo, archivo, herida, senal, portal, omega. Sensacion de arte vivo, musica, moda y cine. Inspiracion estructural en ANTIdiaRy de Rihanna x Samsung solo como viaje por habitaciones simbolicas, no como copia literal. Cero UI, cero look corporativo, cero editorial generico. Resultado: una pieza premium, solemne, futurista y emocional, preparada para montaje de clips de 5 segundos o microtomas de 1 a 3 segundos.
+

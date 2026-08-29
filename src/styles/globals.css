@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --be-accent: #ff2bd6;
+  --be-accent2: #ff6ec7;
+  --be-glow: rgba(255, 43, 214, 0.45);
+  --be-bg: #0d0510;
+  --be-text: #ffe9f7;
+  --be-blood: #e6344b;
+  --be-gold: #d4af37;
+  --glass-border: rgba(255, 255, 255, 0.12);
+  --glass-bg: rgba(10, 6, 14, 0.55);
+}
+
+[data-skin="blood"] {
+  --be-accent: #e6344b;
+  --be-accent2: #ff7a8a;
+  --be-glow: rgba(230, 52, 75, 0.45);
+  --be-bg: #100308;
+}
+
+[data-skin="gold"] {
+  --be-accent: #d4af37;
+  --be-accent2: #f3d367;
+  --be-glow: rgba(212, 175, 55, 0.45);
+  --be-bg: #0a0702;
+}
+
+html {
+  background: var(--be-bg);
+  color: var(--be-text);
+}
+
+body {
+  min-height: 100vh;
+  font-family: var(--font-body);
+  background:
+    radial-gradient(
+      900px 500px at 15% 0%,
+      rgba(255, 43, 214, 0.18),
+      transparent 55%
+    ),
+    radial-gradient(
+      800px 600px at 100% 100%,
+      rgba(255, 110, 199, 0.12),
+      transparent 55%
+    ),
+    var(--be-bg);
+  overflow-x: hidden;
+}
+
+::selection {
+  background: rgba(255, 43, 214, 0.6);
+  color: #fff;
+}
+
+.text-neon {
+  color: var(--be-accent);
+}
+
+.neon-glow {
+  text-shadow: 0 0 12px var(--be-glow);
+}
+
+.glass {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
